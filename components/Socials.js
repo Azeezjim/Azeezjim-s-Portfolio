@@ -20,7 +20,7 @@ const Socials = () => {
         href=""
         onClick={(e) => {
           window.open(
-            "https://drive.google.com/file/d/1hVEh-eCMq7ECHMljo0_ldvNRX1vPDTNk/view?usp=drivesdk",
+            "https://drive.google.com/file/d/1aI1Rw8O0DP_aPAUXNjM8HIPQoFH0EFIE/view?usp=drivesdk",
             "_blank"
           );
         }}
